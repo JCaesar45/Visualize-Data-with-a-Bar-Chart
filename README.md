@@ -1,3 +1,5 @@
+````markdown
+
 # Bar Chart Visualization
 
 This project is a dynamic bar chart visualization built using **HTML**, **CSS**, and **JavaScript** with the **D3.js** library. It uses a dataset containing U.S. GDP over time and displays the data as a bar chart with interactive tooltips.
